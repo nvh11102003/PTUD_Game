@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\neo 16\\documents\\.unity_game\\cua ca ngua\\assets\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\neo 16\\documents\\.unity_game\\cua ca ngua\\assets\\assets\\scripts\\playerscripts\\playerpice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\playerscripts\\playerpice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\neo 16\\documents\\.unity_game\\cua ca ngua\\assets\\assets\\scripts\\rolingdice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\rolingdice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\neo 16\\documents\\.unity_game\\cua ca ngua\\assets\\assets\\scripts\\pathpointsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathpointsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\neo 16\\documents\\.unity_game\\cua ca ngua\\assets\\assets\\scripts\\pathpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPice.cs",
+              "DocumentMoniker": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PlayerScripts\\PlayerPice.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PlayerScripts\\PlayerPice.cs",
+              "ToolTip": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PlayerScripts\\PlayerPice.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PlayerScripts\\PlayerPice.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:00:32.29Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PathPoint.cs",
+              "DocumentMoniker": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PathPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathPoint.cs",
+              "ToolTip": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PathPoint.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:10:46.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathPointsObject.cs",
+              "DocumentMoniker": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PathPointsObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathPointsObject.cs",
+              "ToolTip": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\PathPointsObject.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathPointsObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:32:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:30:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolingDice.cs",
+              "DocumentMoniker": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\RolingDice.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\RolingDice.cs",
+              "ToolTip": "C:\\Users\\NEO 16\\Documents\\.Unity_game\\Cua ca ngua\\Assets\\Assets\\Scripts\\RolingDice.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\RolingDice.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:09:00.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
